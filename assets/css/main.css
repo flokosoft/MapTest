@@ -1,0 +1,15 @@
+.wrapper {
+    width: 2500px;
+    /*margin: 0 auto;*/
+}
+
+#main-container {
+    padding: 2px;
+    /*text-align: center;*/
+}
+
+#worldsize {
+    display: inline-block;
+    padding: 2px;
+    /*margin: 0 auto;*/
+}
